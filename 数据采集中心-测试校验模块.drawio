@@ -1,29 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T05:43:14.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="m-2BXpXLJyG6yrTYZDQL" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T06:43:49.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="5LAyOQTVNJ1nbuLbUifz" version="22.0.4" type="github">
   <diagram name="第 1 页" id="S5hOnzUga7C1LzfeWx9W">
-    <mxGraphModel dx="1386" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NDBwNhITzVO1JYGbLGj0-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="360" width="300" height="300" as="geometry" />
+        </mxCell>
         <mxCell id="NDBwNhITzVO1JYGbLGj0-1" value="数据接收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NDBwNhITzVO1JYGbLGj0-2" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="545" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NDBwNhITzVO1JYGbLGj0-3" value="埋点协议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NDBwNhITzVO1JYGbLGj0-4" value="规则生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NDBwNhITzVO1JYGbLGj0-5" value="规则校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NDBwNhITzVO1JYGbLGj0-6" value="校验结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NDBwNhITzVO1JYGbLGj0-7" value="生成报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
