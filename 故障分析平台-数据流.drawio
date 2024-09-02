@@ -19,6 +19,9 @@
         <mxCell id="ja-0hPlAd0MBnEh-3c65-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150.5" y="131.5" width="160" height="355" as="geometry" />
         </mxCell>
+        <mxCell id="ja-0hPlAd0MBnEh-3c65-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ja-0hPlAd0MBnEh-3c65-1" target="ja-0hPlAd0MBnEh-3c65-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ja-0hPlAd0MBnEh-3c65-1" value="上报接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="ja-0hPlAd0MBnEh-3c65-7" value="数据采集中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="336.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ja-0hPlAd0MBnEh-3c65-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ja-0hPlAd0MBnEh-3c65-8" target="ja-0hPlAd0MBnEh-3c65-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ja-0hPlAd0MBnEh-3c65-8" value="埋点接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="396" width="120" height="60" as="geometry" />
@@ -39,6 +45,12 @@
         </mxCell>
         <mxCell id="ja-0hPlAd0MBnEh-3c65-14" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="396" width="99" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ja-0hPlAd0MBnEh-3c65-20" value="Flink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="396" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ja-0hPlAd0MBnEh-3c65-24" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
