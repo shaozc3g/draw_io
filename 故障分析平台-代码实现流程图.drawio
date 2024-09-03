@@ -46,23 +46,29 @@
         <mxCell id="E8TL_koa1jEblqHzp171-7" value="DWS" style="swimlane;startSize=20;html=1;" vertex="1" parent="E8TL_koa1jEblqHzp171-4">
           <mxGeometry x="510" y="20" width="240" height="460" as="geometry" />
         </mxCell>
+        <mxCell id="E8TL_koa1jEblqHzp171-29" value="t_dws_fault_info_m" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E8TL_koa1jEblqHzp171-7">
+          <mxGeometry x="60" y="172.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E8TL_koa1jEblqHzp171-30" value="t_dws_fault_info_all" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E8TL_koa1jEblqHzp171-7">
+          <mxGeometry x="60" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="E8TL_koa1jEblqHzp171-8" value="DIM" style="swimlane;startSize=20;html=1;" vertex="1" parent="E8TL_koa1jEblqHzp171-4">
           <mxGeometry x="750" y="20" width="230" height="460" as="geometry" />
         </mxCell>
         <mxCell id="E8TL_koa1jEblqHzp171-24" value="t_dim_car_os_version" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E8TL_koa1jEblqHzp171-8">
-          <mxGeometry x="40" y="245" width="150" height="60" as="geometry" />
+          <mxGeometry x="40" y="285" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8TL_koa1jEblqHzp171-25" value="t_dim_trouble_info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E8TL_koa1jEblqHzp171-8">
-          <mxGeometry x="40" y="175" width="150" height="60" as="geometry" />
+          <mxGeometry x="40" y="215" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8TL_koa1jEblqHzp171-26" value="t_dim_car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E8TL_koa1jEblqHzp171-8">
-          <mxGeometry x="40" y="105" width="150" height="60" as="geometry" />
+          <mxGeometry x="40" y="145" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8TL_koa1jEblqHzp171-27" value="t_dim_os" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E8TL_koa1jEblqHzp171-8">
-          <mxGeometry x="40" y="35" width="150" height="60" as="geometry" />
+          <mxGeometry x="40" y="75" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8TL_koa1jEblqHzp171-28" value="t_dim_brand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E8TL_koa1jEblqHzp171-8">
-          <mxGeometry x="40" y="315" width="150" height="60" as="geometry" />
+          <mxGeometry x="40" y="355" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8TL_koa1jEblqHzp171-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E8TL_koa1jEblqHzp171-4" source="E8TL_koa1jEblqHzp171-9" target="E8TL_koa1jEblqHzp171-16">
           <mxGeometry relative="1" as="geometry" />
@@ -71,6 +77,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E8TL_koa1jEblqHzp171-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E8TL_koa1jEblqHzp171-4" source="E8TL_koa1jEblqHzp171-15" target="E8TL_koa1jEblqHzp171-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8TL_koa1jEblqHzp171-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E8TL_koa1jEblqHzp171-4" source="E8TL_koa1jEblqHzp171-16" target="E8TL_koa1jEblqHzp171-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8TL_koa1jEblqHzp171-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E8TL_koa1jEblqHzp171-4" source="E8TL_koa1jEblqHzp171-16" target="E8TL_koa1jEblqHzp171-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
