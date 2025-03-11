@@ -22,8 +22,14 @@
         <mxCell id="uodfpMHbg1HzAjFqGIbb-4" value="车机SDK" style="swimlane;startSize=20;" vertex="1" parent="uodfpMHbg1HzAjFqGIbb-2">
           <mxGeometry x="140" width="120" height="390" as="geometry" />
         </mxCell>
+        <mxCell id="uodfpMHbg1HzAjFqGIbb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="uodfpMHbg1HzAjFqGIbb-4" source="uodfpMHbg1HzAjFqGIbb-10" target="uodfpMHbg1HzAjFqGIbb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uodfpMHbg1HzAjFqGIbb-10" value="输入openid&lt;br&gt;输入did&lt;br&gt;生成sessionid" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="uodfpMHbg1HzAjFqGIbb-4">
           <mxGeometry x="20" y="40" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uodfpMHbg1HzAjFqGIbb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="uodfpMHbg1HzAjFqGIbb-4" source="uodfpMHbg1HzAjFqGIbb-17" target="uodfpMHbg1HzAjFqGIbb-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uodfpMHbg1HzAjFqGIbb-17" value="握手成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uodfpMHbg1HzAjFqGIbb-4">
           <mxGeometry x="20" y="120" width="80" height="50" as="geometry" />
