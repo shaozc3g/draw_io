@@ -65,6 +65,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Mtznmg6a9FA5QhOzfQ1I-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Mtznmg6a9FA5QhOzfQ1I-1" source="Mtznmg6a9FA5QhOzfQ1I-15" target="Mtznmg6a9FA5QhOzfQ1I-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mtznmg6a9FA5QhOzfQ1I-10" value="Openresty" style="swimlane;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="606" y="180" width="120" height="400" as="geometry" />
         </mxCell>
