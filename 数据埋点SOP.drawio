@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3">
   <diagram name="第 1 页" id="uvCS95DBRTtOygPlPAw_">
-    <mxGraphModel>
+    <mxGraphModel dx="2018" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="miPuNvPlgEgBlrkeNLi2-1" value="埋点协议导入SOP" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="700" height="1035" as="geometry" />
+        </mxCell>
+        <mxCell id="miPuNvPlgEgBlrkeNLi2-2" value="客户/自需求" style="swimlane;startSize=20;html=1;" vertex="1" parent="miPuNvPlgEgBlrkeNLi2-1">
+          <mxGeometry y="20" width="160" height="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="miPuNvPlgEgBlrkeNLi2-10" value="产生需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="miPuNvPlgEgBlrkeNLi2-2">
+          <mxGeometry x="20" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="miPuNvPlgEgBlrkeNLi2-3" value="平台/车型市场产品经理" style="swimlane;startSize=20;html=1;" vertex="1" parent="miPuNvPlgEgBlrkeNLi2-1">
+          <mxGeometry x="160" y="20" width="160" height="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="miPuNvPlgEgBlrkeNLi2-11" value="创建飞书需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="miPuNvPlgEgBlrkeNLi2-3">
+          <mxGeometry x="20" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="miPuNvPlgEgBlrkeNLi2-5" value="业务模块产品经理" style="swimlane;startSize=20;html=1;" vertex="1" parent="miPuNvPlgEgBlrkeNLi2-1">
+          <mxGeometry x="320" y="20" width="150" height="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="miPuNvPlgEgBlrkeNLi2-6" value="系统工程师" style="swimlane;startSize=20;html=1;" vertex="1" parent="miPuNvPlgEgBlrkeNLi2-1">
+          <mxGeometry x="470" y="20" width="120" height="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="miPuNvPlgEgBlrkeNLi2-7" value="测试" style="swimlane;startSize=20;html=1;" vertex="1" parent="miPuNvPlgEgBlrkeNLi2-1">
+          <mxGeometry x="590" y="20" width="110" height="1015" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
