@@ -103,7 +103,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FTT4mtNPkDs6H_iCTcEx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="FTT4mtNPkDs6H_iCTcEx-15" target="FTT4mtNPkDs6H_iCTcEx-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="300" />
+              <mxPoint x="620" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FTT4mtNPkDs6H_iCTcEx-21" value="生成测试任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FTT4mtNPkDs6H_iCTcEx-20" vertex="1" connectable="0">
           <mxGeometry x="-0.1067" relative="1" as="geometry">
@@ -192,13 +197,39 @@
         <mxCell id="FTT4mtNPkDs6H_iCTcEx-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="FTT4mtNPkDs6H_iCTcEx-39" target="FTT4mtNPkDs6H_iCTcEx-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="570" />
-              <mxPoint x="620" y="570" />
+              <mxPoint x="620" y="590" />
+              <mxPoint x="620" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FTT4mtNPkDs6H_iCTcEx-52" value="成功测试报告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FTT4mtNPkDs6H_iCTcEx-51" vertex="1" connectable="0">
           <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6tntVAHthWZV0yehm1S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="FTT4mtNPkDs6H_iCTcEx-39" target="FTT4mtNPkDs6H_iCTcEx-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="550" />
+              <mxPoint x="620" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6tntVAHthWZV0yehm1S-2" value="任务状态：完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6tntVAHthWZV0yehm1S-1">
+          <mxGeometry x="-0.1467" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6tntVAHthWZV0yehm1S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="FTT4mtNPkDs6H_iCTcEx-3" target="FTT4mtNPkDs6H_iCTcEx-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="340" />
+              <mxPoint x="620" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6tntVAHthWZV0yehm1S-4" value="任务状态：测试中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6tntVAHthWZV0yehm1S-3">
+          <mxGeometry x="-0.16" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
