@@ -150,13 +150,13 @@
         <mxCell id="N5TvLH0tYXLtDI16kFAI-45" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="20" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="N5TvLH0tYXLtDI16kFAI-46" value="数据采集中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="N5TvLH0tYXLtDI16kFAI-46" value="数据采集中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="304" y="375" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5TvLH0tYXLtDI16kFAI-47" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="430" y="-70" width="20" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="N5TvLH0tYXLtDI16kFAI-48" value="车端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="N5TvLH0tYXLtDI16kFAI-48" value="车端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="329" y="5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
