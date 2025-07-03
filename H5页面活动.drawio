@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z-6O5lKGsBEfhH1vGVkW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-6O5lKGsBEfhH1vGVkW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="270" height="230" as="geometry" />
         </mxCell>
         <mxCell id="z-6O5lKGsBEfhH1vGVkW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z-6O5lKGsBEfhH1vGVkW-3" target="z-6O5lKGsBEfhH1vGVkW-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-6O5lKGsBEfhH1vGVkW-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-6O5lKGsBEfhH1vGVkW-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="380" width="120" height="230" as="geometry" />
         </mxCell>
         <mxCell id="z-6O5lKGsBEfhH1vGVkW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z-6O5lKGsBEfhH1vGVkW-5" target="z-6O5lKGsBEfhH1vGVkW-3">
@@ -46,10 +46,10 @@
         <mxCell id="z-6O5lKGsBEfhH1vGVkW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z-6O5lKGsBEfhH1vGVkW-18" target="z-6O5lKGsBEfhH1vGVkW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-6O5lKGsBEfhH1vGVkW-18" value="Doris" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-6O5lKGsBEfhH1vGVkW-18" value="Doris" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="380" width="120" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="z-6O5lKGsBEfhH1vGVkW-20" value="数据服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-6O5lKGsBEfhH1vGVkW-20" value="数据服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="770" y="380" width="120" height="230" as="geometry" />
         </mxCell>
       </root>
