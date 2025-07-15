@@ -335,6 +335,25 @@
             <mxPoint x="620.5" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="coZ2cCPz-MjVx_s6nbji-99" value="×" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="930" as="geometry">
+            <mxPoint x="96" y="211" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coZ2cCPz-MjVx_s6nbji-101" value="云端异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="950" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="coZ2cCPz-MjVx_s6nbji-103" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770.5" y="1169" as="sourcePoint" />
+            <mxPoint x="620.5" y="1169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coZ2cCPz-MjVx_s6nbji-104" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;×&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="coZ2cCPz-MjVx_s6nbji-103">
+          <mxGeometry x="0.0867" y="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
