@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="coZ2cCPz-MjVx_s6nbji-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="90" width="420" height="760" as="geometry" />
+          <mxGeometry x="850" y="90" width="460" height="760" as="geometry" />
         </mxCell>
         <mxCell id="coZ2cCPz-MjVx_s6nbji-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="90" width="370" height="710" as="geometry" />
@@ -50,7 +50,7 @@
             <mxPoint x="320" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-17" value="无任务信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="coZ2cCPz-MjVx_s6nbji-15">
+        <mxCell id="coZ2cCPz-MjVx_s6nbji-17" value="任务状态信号-false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="coZ2cCPz-MjVx_s6nbji-15">
           <mxGeometry x="0.0118" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -176,9 +176,9 @@
             <mxPoint x="1179" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-65" value="任务状态异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="coZ2cCPz-MjVx_s6nbji-64">
+        <mxCell id="coZ2cCPz-MjVx_s6nbji-65" value="任务状态变成SDK连接丢失" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="coZ2cCPz-MjVx_s6nbji-64">
           <mxGeometry x="-0.1667" y="3" relative="1" as="geometry">
-            <mxPoint x="17" as="offset" />
+            <mxPoint x="48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="coZ2cCPz-MjVx_s6nbji-66" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
@@ -314,44 +314,18 @@
             <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-93" value="车端异常流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="850" y="90" width="130" height="30" as="geometry" />
+        <mxCell id="coZ2cCPz-MjVx_s6nbji-93" value="车端断连恢复流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="850" y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-94" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="590" y="1100" width="10" height="550" as="geometry" />
-        </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-95" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="800" y="1100" width="10" height="550" as="geometry" />
-        </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-96" value="车端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="544" y="1030" width="95" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-97" value="云端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="770.5" y="1045" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="coZ2cCPz-MjVx_s6nbji-107" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770.5" y="1140" as="sourcePoint" />
-            <mxPoint x="620.5" y="1140" as="targetPoint" />
+            <mxPoint x="1115" y="410" as="sourcePoint" />
+            <mxPoint x="965" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-99" value="×" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="600" y="930" as="geometry">
-            <mxPoint x="96" y="211" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-101" value="云端异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="480" y="950" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-103" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770.5" y="1169" as="sourcePoint" />
-            <mxPoint x="620.5" y="1169" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="coZ2cCPz-MjVx_s6nbji-104" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;×&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="coZ2cCPz-MjVx_s6nbji-103">
-          <mxGeometry x="0.0867" y="-1" relative="1" as="geometry">
-            <mxPoint x="12" y="1" as="offset" />
+        <mxCell id="coZ2cCPz-MjVx_s6nbji-108" value="任务状态信号-true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="coZ2cCPz-MjVx_s6nbji-107">
+          <mxGeometry x="0.0118" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
